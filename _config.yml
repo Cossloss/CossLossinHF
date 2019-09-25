@@ -40,6 +40,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-include-cache
 paginate: 2
 paginate_path: blog/page:num
 jekyll-mentions: https://twitter.com
